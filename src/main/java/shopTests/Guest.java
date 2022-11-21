@@ -7,6 +7,7 @@ public class Guest {
     public ArrayList<Products> ViewProducts(Admin admin){
 
         return admin.ViewProducts();
+        //dasdas
     }
 
     public Customer GetRegistered(String name){
